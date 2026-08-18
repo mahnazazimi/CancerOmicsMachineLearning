@@ -1,4 +1,4 @@
-# cancer-omics-machine-learning
+# CancerOmicsMachineLearning
 Developing machine learning workflows for cancer omics data in R, starting with linear regression on TCGA-ESCA gene expression data.
 
 This repository documents my hands-on practice in applying machine learning methods to cancer omics data using R.
