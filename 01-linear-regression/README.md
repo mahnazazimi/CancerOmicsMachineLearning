@@ -2,7 +2,7 @@
 
 This repository documents hands-on machine learning for cancer omics data, including TCGA gene expression datasets, using R.
 
-The project is developed progressively and focuses on applying statistical and machine learning approaches to biological and cancer-related datasets.
+The project is developed progressively and focuses on applying statistical and machine learning approaches to cancer-related datasets.
 
 ## Topics
 
