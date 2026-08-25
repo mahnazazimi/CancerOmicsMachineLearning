@@ -1,34 +1,58 @@
 # CancerOmicsMachineLearning
-Developing machine learning workflows for cancer omics data in R, starting with linear regression on TCGA-ESCA gene expression data.
 
-This repository documents my hands-on practice in applying machine learning methods to cancer omics data using R.
+Hands-on machine learning practice on cancer-related datasets using R, with a focus on cancer omics, predictive modeling, and model evaluation.
 
-The project is being developed progressively, starting with linear regression and predictive modeling on gene expression data.
+This repository is intended for practical skill development and does not represent an independent research project. It is being developed progressively as I work through different machine learning concepts and apply them to biological and cancer-related datasets.
 
-## Current Work
+## Topics 
 
-### Linear Regression
+### Data Preparation
 
-The current analysis includes:
+* Data preprocessing and exploration
+* Correlation analysis
+* Train/test data splitting
 
-- Data exploration and visualization
-- Correlation analysis between gene expression features
-- Train/test data splitting
-- Linear regression modeling
-- Prediction on held-out test data
-- Comparison of predicted and actual values
+### Regression & Prediction
 
-## Dataset
+* Linear regression
+* Multiple linear regression
+* Predictive modeling
 
-The current exercise uses gene expression data derived from the TCGA-ESCA project (esophageal cancer).
+### Regularization & Feature Selection
 
-The analysis focuses on correlated gene expression features, including G6PD and ME1.
+* Ridge regression
+* Lasso regression
+* Cross-validation
+* Feature selection
+
+### Classification
+
+* Logistic Regression
+* Support Vector Machines
+* Decision Trees
+* Random Forest
+* Naive Bayes
+* K-Nearest Neighbors
+
+### Model Analysis
+
+* Model prediction and comparison
+
+## Datasets
+
+* TCGA-ESCA gene expression data
+* TCGA-derived tumor/normal gene expression data
+* Breast cancer diagnostic data
 
 ## Tools
 
-- R
-- caret
-- Base R statistical functions
+* R
+* caret
+* glmnet
+* e1071
+* rpart
+* randomForest
+* Base R statistical functions
 
 ## Repository Status
 
