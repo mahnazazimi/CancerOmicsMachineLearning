@@ -49,8 +49,6 @@ This repository is intended for practical skill development and does not represe
 * R
 * caret
 * glmnet
-* e1071
-* rpart
 * randomForest
 * Base R statistical functions
 
