@@ -41,7 +41,7 @@ This repository is intended for practical skill development and does not represe
 ## Datasets
 
 * TCGA-ESCA gene expression data
-* TCGA-derived tumor/normal gene expression data
+* TCGA-derived CRC/normal gene expression data 
 * Breast cancer diagnostic data
 
 ## Tools
