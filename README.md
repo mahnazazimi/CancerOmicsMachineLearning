@@ -24,6 +24,7 @@ This repository is intended for practical skill development and does not represe
 * Lasso regression
 * Cross-validation
 * Feature selection
+* Feature reduction
 
 ### Classification
 
@@ -37,6 +38,19 @@ This repository is intended for practical skill development and does not represe
 ### Model Analysis
 
 * Model prediction and comparison
+
+### Model Evaluation
+- Cross-validation
+- Model prediction and comparison
+- Confusion matrix
+- ROC and AUC
+- Sensitivity and specificity
+
+### Biomarker-Oriented Analysis
+- Differentially expressed gene filtering
+- Random Forest feature importance
+- Gene feature ranking
+- Candidate biomarker identification
 
 ## Datasets
 
