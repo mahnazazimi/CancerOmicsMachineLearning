@@ -35,6 +35,12 @@ This repository is intended for practical skill development and does not represe
 * Naive Bayes
 * K-Nearest Neighbors
 
+### Dimension Reduction
+- Principal Component Analysis (PCA)
+- UMAP
+- t-SNE
+- Visualization of high-dimensional cancer-related data
+
 ### Model Analysis
 
 * Model prediction and comparison
@@ -65,6 +71,8 @@ This repository is intended for practical skill development and does not represe
 * glmnet
 * randomForest
 * Base R statistical functions
+* uwot
+* Rtsne
 
 ## Repository Status
 
