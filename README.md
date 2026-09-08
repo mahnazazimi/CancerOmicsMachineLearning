@@ -41,6 +41,16 @@ This repository is intended for practical skill development and does not represe
 - t-SNE
 - Visualization of high-dimensional cancer-related data
 
+### Dimension Reduction & Unsupervised Learning
+- PCA
+- UMAP
+- t-SNE
+- K-means clustering
+- DBSCAN
+- Hierarchical clustering
+- Spectral clustering
+- Gaussian Mixture Models
+
 ### Model Analysis
 
 * Model prediction and comparison
