@@ -84,6 +84,3 @@ This repository is intended for practical skill development and does not represe
 * uwot
 * Rtsne
 
-## Repository Status
-
-Work in progress. Additional machine learning methods and model evaluation approaches will be added as the project develops.
